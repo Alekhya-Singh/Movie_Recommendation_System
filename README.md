@@ -1,5 +1,4 @@
 # Movie_Recommendation_System
-Recommendation System using ALS, Cosine Similarity and Demographic filtering
 
 Data is growing rapidly which leads to a new era of information. More efficient systems are being created by using the data and Recommendation System is one of them. 
 Recommendation System is a type of information filtering system as it improves the quality of exploration results and provides items that are more appropriate to the search item or are related to the search history of the user.
