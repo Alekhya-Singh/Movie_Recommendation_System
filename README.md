@@ -8,5 +8,5 @@ A recommender system refers to a system that is proficient to predict the future
 
 To improve the quality of a movie recommendation system, a Hybrid approach by combining content-based filtering and collaborative filtering can be used. In the proposed methodology Hybrid approach helps to get the advantages from both the approaches as well as tries to eliminate the drawbacks of both methods.
 
-# This project includes recommendation system based on Alternating Least Square, Cosine Similarity and Demographic filtering.
+#### This project includes recommendation system based on Alternating Least Square, Cosine Similarity and Demographic filtering.
 
